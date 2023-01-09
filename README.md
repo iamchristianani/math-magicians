@@ -118,7 +118,7 @@
 
 👤 **Christian Ani**
 
-- GitHub: [@giamchristianani](https://github.com/iamchristianani)
+- GitHub: [@iamchristianani](https://github.com/iamchristianani)
 - Twitter: [@kriznode](https://twitter.com/kriznode)
 - LinkedIn: [Christian Ani](https://www.linkedin.com/in/anikriz/)
 
