@@ -12,7 +12,7 @@ class Digits extends React.Component {
         <div className="digits-input">AC</div>
         <div className="digits-input">+/-</div>
         <div className="digits-input">%</div>
-        <div className="digits-input operators">+</div>
+        <div className="digits-input operators">&divide;</div>
         <div className="digits-input">7</div>
         <div className="digits-input">8</div>
         <div className="digits-input">9</div>
