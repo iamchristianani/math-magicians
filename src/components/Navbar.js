@@ -6,7 +6,7 @@ const Nav = () => (
     <h1 className="logo"> Math Magicians </h1>
     <ul className="nav-links">
       <li>
-        <Link to="/math-magicians">Home</Link>
+        <Link to="/">Home</Link>
       </li>
       <li>
         <Link to="/calculator">Calculator</Link>
